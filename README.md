@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drk720-live&label=Profile%20views&color=0e75b6&style=flat" alt="drk720-live" /> </p>
 
+- 🎓 Final-Year Electronics & Communication Engineering student
+
 - 🎯 Goal **Join a top tech company as an ML Engineer and pursue a Master's in Robotics**
 
 - 🔭 Currently working on **Gas Guard Pro: Intelligence LPG leaks Detector with auto Shutoff**
