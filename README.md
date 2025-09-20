@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **ML, AI, Robotics, Arduino projects, 3D modeling, or graphic design**
 
-- 📫 How to reach me **mahfujur268@gmail.com**
+- 📫 How to reach me **mahfujur.ece.istt@gmail.com**
 
 - ⚡ Fun fact **I blend engineering with creativity – coding by day, designing by night**
 
